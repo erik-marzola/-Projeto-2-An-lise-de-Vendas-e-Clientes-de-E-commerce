@@ -1,0 +1,33 @@
+produto_id,nome_produto,categoria,custo_unitario
+PROD-001,Mouse  Sem Fio,Eletrônicos,31.00
+PROD-002,Teclado Mecânico,Eletrônicos,137.00
+PROD-003,Hub USB-C,Eletrônicos,59.00
+PROD-004,Fone Bluetooth,Eletrônicos,112.00
+PROD-005,Monitor 27 Polegadas,Eletrônicos,910.00
+PROD-006,Webcam Full HD,Eletrônicos,159.00
+PROD-007,SSD Externo 1TB,Eletrônicos,425.00
+PROD-008,Notebook i5,Eletrônicos,2760.00
+PROD-009,Adaptador HDMI,Eletrônicos,19.00
+PROD-010,Caixa de Som Bluetooth,Eletrônicos,91.00
+PROD-011,Cadeira Ergonômica,Móveis,690.00
+PROD-012,Mesa de Escritório,Móveis,1040.00
+PROD-013,Luminária de Mesa,Móveis,78.00
+PROD-014,Gaveteiro,Móveis,299.00
+PROD-015,Suporte para Notebook,Móveis,55.00
+PROD-016,Caderno A5,Papelaria,12.00
+PROD-017,Kit de Canetas,Papelaria,17.00
+PROD-018,Papel A4 - Resma,Papelaria,21.00
+PROD-019,Planner Semanal,Papelaria,19.00
+PROD-020,Marcadores de Texto,Papelaria,7.50
+PROD-021,Mochila Executiva,Acessórios,119.00
+PROD-022,Capa para Notebook,Acessórios,62.00
+PROD-023,Suporte para Monitor,Acessórios,72.00
+PROD-024,Filtro de Linha,Acessórios,36.00
+PROD-025,Headset USB,Eletrônicos,151.00
+PROD-026,Carregador USB-C,Eletrônicos,44.00
+PROD-027,Organizador de Cabos,Acessórios,8.00
+PROD-028,Apoio de Pulso,Acessórios,21.00
+PROD-029,Fone com Fio,Eletrônicos,24.00
+PROD-030,Pen Drive 128GB,Eletrônicos,34.00
+PROD-031,Mousepad Ergonômico,Acessórios,25.00
+PROD-032,Calculadora Financeira,Papelaria,61.00

@@ -1,0 +1,29 @@
+PROJETO 2 — COMPRACERTA BRASIL
+Análise de Vendas e Clientes de E-commerce com SQL + Power BI
+
+Arquivos CSV:
+- clientes.csv: 750 registros
+- pedidos.csv: 2500 registros
+- itens_pedido.csv: 5361 registros
+- produtos.csv: 32 registros
+
+Estrutura:
+clientes (1) -> (N) pedidos
+pedidos (1) -> (N) itens_pedido
+produtos (1) -> (N) itens_pedido
+
+Regras iniciais:
+1. Os dados são totalmente fictícios e servem apenas para portfólio.
+2. O período dos pedidos é de janeiro a dezembro de 2025.
+3. Para receita reconhecida nas análises, considere pedidos com status "Entregue".
+4. Receita líquida dos itens = quantidade * preco_unitario * (1 - desconto_pct / 100).
+5. Lucro bruto estimado = receita líquida dos itens - (quantidade * custo_unitario). O custo_unitario está na tabela produtos.
+6. O frete é mantido separado e não integra a receita líquida dos itens neste exercício.
+7. Há poucos problemas intencionais de qualidade textual em campos não usados como chave, para investigação posterior.
+
+Como vamos usar:
+- Abra o Excel para inspecionar as tabelas e o dicionário de dados.
+- Depois usaremos um banco SQLite para carregar CSVs e praticar SELECT, WHERE, JOIN, GROUP BY, ORDER BY e HAVING.
+- O arquivo criar_tabelas.sql define o esquema relacional; vamos executá-lo durante o passo a passo.
+
+Importante: não publique informações pessoais reais; todos os registros deste conjunto são fictícios.

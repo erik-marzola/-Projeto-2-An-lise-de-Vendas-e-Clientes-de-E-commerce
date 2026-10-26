@@ -1,0 +1,751 @@
+cliente_id,nome_cliente,cidade,estado,regiao,data_cadastro,segmento_cliente
+CLI-0001,Ana Souza,Petrópolis,RJ,Sudeste,2024-12-23,Pessoa Física
+CLI-0002,Fernanda Almeida,Fortaleza,CE,Nordeste,2023-04-23,Pessoa Física
+CLI-0003,Olívia Santos,Uberlândia,MG,Sudeste,2022-09-19,Pessoa Física
+CLI-0004,Valentina Barbosa,São Paulo,SP,Sudeste,2022-05-09,Pessoa Física
+CLI-0005,Luana Barbosa,Curitiba,PR,Sul,2023-11-21,Pessoa Física
+CLI-0006,Mateus Costa,Belo Horizonte,MG,Sudeste,2024-04-10,Pessoa Física
+CLI-0007,Isabela Oliveira,Belo Horizonte,MG,Sudeste,2023-08-25,Pequena Empresa
+CLI-0008,Igor Oliveira,São Paulo,SP,Sudeste,2023-04-07,Pessoa Física
+CLI-0009,Marina Pereira,Porto Alegre,RS,Sul,2024-12-20,Pessoa Física
+CLI-0010,Bianca Pereira,Rio de Janeiro,RJ,Sudeste,2022-12-12,Pessoa Física
+CLI-0011,Camila Carvalho,Rio de Janeiro,RJ,Sudeste,2022-06-27,Pessoa Física
+CLI-0012,Fernanda Almeida,São Paulo,SP,Sudeste,2022-10-17,Pessoa Física
+CLI-0013,Mateus Costa,Rio de Janeiro,RJ,Sudeste,2023-04-01,Pequena Empresa
+CLI-0014,Helena Santos,Campinas,SP,Sudeste,2022-04-30,Pessoa Física
+CLI-0015,Luana Pereira,São Paulo,SP,Sudeste,2023-01-04,Pessoa Física
+CLI-0016,Valentina Rocha,Recife,PE,Nordeste,2022-12-21,Pessoa Física
+CLI-0017,Luana Pereira,Santos,SP,Sudeste,2023-06-02,Pessoa Física
+CLI-0018,Thiago Ferreira,Fortaleza,CE,Nordeste,2022-01-03,Pessoa Física
+CLI-0019,Pedro Pereira,Joinville,SC,Sul,2024-07-11,Pequena Empresa
+CLI-0020,Bianca Barbosa,Santos,SP,Sudeste,2024-07-11,Pessoa Física
+CLI-0021,Bruno Ferreira,Porto Alegre,RS,Sul,2022-09-23,Pessoa Física
+CLI-0022,Helena Barbosa,Salvador,BA,Nordeste,2022-02-10,Pessoa Física
+CLI-0023,Larissa Carvalho,São Paulo,SP,Sudeste,2023-02-03,Pessoa Física
+CLI-0024,Gustavo Oliveira,São Paulo,SP,Sudeste,2022-09-22,Pequena Empresa
+CLI-0025,Luana Souza,Niterói,RJ,Sudeste,2024-10-22,Pessoa Física
+CLI-0026,Isabela Silva,Rio de Janeiro,RJ,Sudeste,2024-02-01,Pessoa Física
+CLI-0027,Paulo Souza,Santos,SP,Sudeste,2023-11-22,Pessoa Física
+CLI-0028,Eduardo Santos,Londrina,PR,Sul,2023-04-30,Pessoa Física
+CLI-0029,Fernanda Rocha,Anápolis,GO,Centro-Oeste,2024-05-26,Pessoa Física
+CLI-0030,Luana Rocha,Campinas,SP,Sudeste,2023-11-24,Pessoa Física
+CLI-0031,Diego Ribeiro,Curitiba,PR,Sul,2022-05-22,Pequena Empresa
+CLI-0032,Thiago Costa,Campinas,SP ,Sudeste,2023-12-19,Pessoa Física
+CLI-0033,Sofia Lima,Rio de Janeiro,RJ,Sudeste,2024-10-30,Pessoa Física
+CLI-0034,Lucas Barbosa,Ribeirão Preto,SP,Sudeste,2024-04-04,Pequena Empresa
+CLI-0035,Gustavo Rocha,Joinville,SC,Sul,2024-04-29,Pessoa Física
+CLI-0036,Rafael Araujo,Petrópolis,RJ,Sudeste,2024-06-17,Pequena Empresa
+CLI-0037,Eduardo Ribeiro,Joinville,SC,Sul,2024-08-21,Pessoa Física
+CLI-0038,Beatriz Almeida,Salvador,BA,Nordeste,2024-03-18,Média Empresa
+CLI-0039,Victor Ferreira,Caruaru,PE,Nordeste,2023-11-06,Pessoa Física
+CLI-0040,Bianca Costa,Caxias do Sul,RS,Sul,2022-01-14,Média Empresa
+CLI-0041,Caio Martins,Fortaleza,CE,Nordeste,2022-06-16,Pessoa Física
+CLI-0042,Isabela Oliveira,Porto Alegre,RS,Sul,2022-11-30,Pessoa Física
+CLI-0043,Paulo Carvalho,Santos,SP,Sudeste,2022-07-03,Pessoa Física
+CLI-0044,Bruno Almeida,Juazeiro do Norte,CE,Nordeste,2024-02-07,Média Empresa
+CLI-0045,Thiago Silva,Vitória,ES,Sudeste,2022-11-30,Pessoa Física
+CLI-0046,Fernanda Barbosa,Brasília,DF,Centro-Oeste,2024-10-21,Pessoa Física
+CLI-0047,Gabriel Santos,São José dos Campos,SP,Sudeste,2022-04-14,Pessoa Física
+CLI-0048,Luana Lima,Florianópolis,SC,Sul,2024-11-06,Pequena Empresa
+CLI-0049,Bruno Ribeiro,Porto Alegre,RS,Sul,2023-11-27,Pessoa Física
+CLI-0050,Gustavo Oliveira,Goiânia,GO,Centro-Oeste,2023-02-14,Pessoa Física
+CLI-0051,Camila Oliveira,Belo Horizonte,MG,Sudeste,2023-02-07,Pessoa Física
+CLI-0052,Diego Pereira,Vila Velha,ES,Sudeste,2022-01-21,Pessoa Física
+CLI-0053,Igor Gomes,Campinas,SP,Sudeste,2022-04-17,Pessoa Física
+CLI-0054,Isabela Gomes,Porto Alegre,RS,Sul,2022-08-10,Pequena Empresa
+CLI-0055,Pedro Santos,São Paulo,SP,Sudeste,2024-03-01,Pessoa Física
+CLI-0056,Luana Silva,Salvador,BA,Nordeste,2022-05-05,Pessoa Física
+CLI-0057,Victor Lima,São José dos Campos,SP,Sudeste,2023-11-05,Pessoa Física
+CLI-0058,Valentina Costa,Contagem,MG,Sudeste,2022-01-25,Pequena Empresa
+CLI-0059,Gabriel Lima,Belo Horizonte,MG,Sudeste,2023-02-21,Pessoa Física
+CLI-0060,Helena Barbosa,Fortaleza,CE,Nordeste,2023-07-11,Média Empresa
+CLI-0061,Eduardo Souza,Contagem,MG,Sudeste,2023-07-31,Pequena Empresa
+CLI-0062,Gustavo Costa,Uberlândia,MG,Sudeste,2023-05-02,Pessoa Física
+CLI-0063,Paulo Ribeiro,Belo Horizonte,MG,Sudeste,2024-03-26,Média Empresa
+CLI-0064,Gabriel Santos,Santos,SP,Sudeste,2024-02-28,Pessoa Física
+CLI-0065,Ana Souza,Volta Redonda,RJ,Sudeste,2023-11-16,Pessoa Física
+CLI-0066,Larissa Costa,Petrópolis,RJ,Sudeste,2022-06-14,Pessoa Física
+CLI-0067,Olívia Pereira,São José dos Campos,SP,Sudeste,2023-10-10,Pequena Empresa
+CLI-0068,Fernanda Araujo,Porto Alegre,RS,Sul,2023-06-19,Pequena Empresa
+CLI-0069,Luana Costa,Belo Horizonte,MG,Sudeste,2022-07-20,Pessoa Física
+CLI-0070,Pedro Rocha,Campinas,SP,Sudeste,2022-10-30,Pessoa Física
+CLI-0071,Caio Lima,Campinas,rj,Sudeste,2022-07-10,Pessoa Física
+CLI-0072,Diego Araujo,Contagem,MG,Sudeste,2024-01-22,Pessoa Física
+CLI-0073,Thiago Santos,Florianópolis,SC,Sul,2023-03-22,Pessoa Física
+CLI-0074,Helena Lima,Contagem,MG,Sudeste,2022-04-13,Pessoa Física
+CLI-0075,Marina Gomes,Niterói,RJ,Sudeste,2024-02-11,Pessoa Física
+CLI-0076,Helena Pereira,Blumenau,SC,Sul,2024-12-04,Pessoa Física
+CLI-0077,Nicolas Costa,Blumenau,SC,Sul,2023-05-26,Pessoa Física
+CLI-0078,Sofia Costa,São Paulo,SP,Sudeste,2024-01-05,Pequena Empresa
+CLI-0079,Júlia Lima,Uberlândia,MG,Sudeste,2022-01-27,Pessoa Física
+CLI-0080,Mateus Santos,Santos,SP,Sudeste,2024-04-12,Pessoa Física
+CLI-0081,Sofia Martins,Caxias do Sul,RS,Sul,2024-08-03,Pessoa Física
+CLI-0082,Larissa Almeida,Florianópolis,SC,Sul,2023-11-28,Pessoa Física
+CLI-0083,Camila Barbosa,Volta Redonda,RJ,Sudeste,2022-10-29,Pessoa Física
+CLI-0084,Victor Rocha,Ribeirão Preto,SP,Sudeste,2024-04-13,Pequena Empresa
+CLI-0085,Nicolas Lima,São Paulo,SP,Sudeste,2022-02-18,Pessoa Física
+CLI-0086,Nicolas Almeida,São José dos Campos,SP,Sudeste,2023-05-02,Pessoa Física
+CLI-0087,Bruno Ribeiro,Niterói,RJ,Sudeste,2024-01-22,Pessoa Física
+CLI-0088,Helena Gomes,Vitória,ES,Sudeste,2023-09-04,Pessoa Física
+CLI-0089,Gabriel Oliveira,São Paulo,SP,Sudeste,2024-05-27,Pessoa Física
+CLI-0090,Caio Lima,Salvador,BA,Nordeste,2024-09-08,Pequena Empresa
+CLI-0091,Eduardo Martins,São Paulo,SP,Sudeste,2024-05-28,Pessoa Física
+CLI-0092,Luana Rocha,Florianópolis,SC,Sul,2022-08-17,Pequena Empresa
+CLI-0093,Mateus Almeida,Juiz de Fora,MG,Sudeste,2022-08-05,Pessoa Física
+CLI-0094,Helena Santos,Belo Horizonte,MG,Sudeste,2022-05-11,Pessoa Física
+CLI-0095,Rafael Araujo,Rio de Janeiro,RJ,Sudeste,2024-07-01,Pessoa Física
+CLI-0096,Sofia Oliveira,São Paulo,SP,Sudeste,2023-03-09,Pessoa Física
+CLI-0097,Paulo Souza,Florianópolis,SC,Sul,2023-10-10,Pessoa Física
+CLI-0098,Rafael Costa,Cascavel,PR,Sul,2022-01-22,Pessoa Física
+CLI-0099,Olívia Oliveira,Brasília,DF,Centro-Oeste,2024-11-21,Pessoa Física
+CLI-0100,Gustavo Barbosa,Salvador,BA,Nordeste,2023-11-15,Pessoa Física
+CLI-0101,Júlia Ferreira,Salvador,BA,Nordeste,2023-10-20,Pessoa Física
+CLI-0102,Larissa Barbosa,Campinas,SP,Sudeste,2023-08-19,Pessoa Física
+CLI-0103,Eduardo Barbosa,Brasília,DF,Centro-Oeste,2022-06-28,Pessoa Física
+CLI-0104,Caio Barbosa,Porto Alegre,RS,Sul,2022-09-10,Pequena Empresa
+CLI-0105,Nicolas Almeida,Feira de Santana,BA,Nordeste,2023-12-20,Pessoa Física
+CLI-0106,Thiago Oliveira,São José dos Campos,SP,Sudeste,2022-07-02,Pequena Empresa
+CLI-0107,Larissa Gomes,Rio de Janeiro,RJ,Sudeste,2024-12-14,Pessoa Física
+CLI-0108,Camila Almeida,Porto Alegre,RS,Sul,2024-07-27,Pessoa Física
+CLI-0109,Olívia Pereira,São Paulo,SP,Sudeste,2022-07-05,Pessoa Física
+CLI-0110,Nicolas Ferreira,Contagem,MG,Sudeste,2024-03-16,Pessoa Física
+CLI-0111,Marina Ferreira,São José dos Campos,SP,Sudeste,2022-11-19,Pessoa Física
+CLI-0112,Marina Oliveira,São Paulo,SP,Sudeste,2023-06-27,Pessoa Física
+CLI-0113,Rafael Ribeiro,São Paulo,SP,Sudeste,2022-01-03,Pessoa Física
+CLI-0114,Gustavo Costa,Joinville,SC,Sul,2024-10-27,Pessoa Física
+CLI-0115,Eduardo Rocha,Rio de Janeiro,RJ,Sudeste,2023-09-21,Pessoa Física
+CLI-0116,Caio Barbosa,Petrópolis,RJ,Sudeste,2022-10-23,Pessoa Física
+CLI-0117,Igor Gomes,Campinas,SP,Sudeste,2023-11-17,Pessoa Física
+CLI-0118,Lucas Martins,Campinas,SP,Sudeste,2024-03-22,Pessoa Física
+CLI-0119,Rafaela Gomes,Petrópolis,RJ,Sudeste,2023-08-05,Pessoa Física
+CLI-0120,Camila Carvalho,São José dos Campos,SP,Sudeste,2022-10-25,Pessoa Física
+CLI-0121,Rafaela Carvalho,São Paulo,SP,Sudeste,2023-10-01,Pessoa Física
+CLI-0122,Beatriz Santos,Niterói,RJ,Sudeste,2024-09-29,Pessoa Física
+CLI-0123,Ana Ferreira,Vitória,ES,Sudeste,2023-04-01,Pequena Empresa
+CLI-0124,Lucas Lima,Vitória da Conquista,BA,Nordeste,2022-12-02,Pessoa Física
+CLI-0125,Marina Almeida,,,Sudeste,2023-10-08,Média Empresa
+CLI-0126,Igor Almeida,São Paulo,SP,Sudeste,2024-01-12,Pessoa Física
+CLI-0127,Ana Almeida,Joinville,SC,Sul,2024-12-01,Pequena Empresa
+CLI-0128,Rafaela Lima,Belo Horizonte,MG,Sudeste,2023-04-20,Pequena Empresa
+CLI-0129,Gustavo Silva,Campinas,SP,Sudeste,2023-10-21,Pessoa Física
+CLI-0130,Eduardo Costa,Maringá,PR,Sul,2024-06-04,Pequena Empresa
+CLI-0131,Beatriz Silva,Goiânia,GO,Centro-Oeste,2022-09-11,Média Empresa
+CLI-0132,Gabriel Martins,Campinas,SP,Sudeste,2022-01-21,Pessoa Física
+CLI-0133,Eduardo Costa,Joinville,SC,Sul,2024-12-28,Pessoa Física
+CLI-0134,Camila Pereira,Contagem,MG,Sudeste,2022-04-15,Pessoa Física
+CLI-0135,Thiago Rocha,Fortaleza,CE,Nordeste,2023-11-18,Pessoa Física
+CLI-0136,Thiago Souza,Joinville,SC,Sul,2024-11-15,Pequena Empresa
+CLI-0137,Thiago Lima,Ribeirão Preto,SP,Sudeste,2023-04-05,Pequena Empresa
+CLI-0138,Eduardo Ferreira,Ribeirão Preto,SP,Sudeste,2024-08-26,Pequena Empresa
+CLI-0139,Gustavo Gomes,Belo Horizonte,MG,Sudeste,2023-05-05,Pessoa Física
+CLI-0140,Gustavo Almeida,São Paulo,SP,Sudeste,2024-03-10,Pequena Empresa
+CLI-0141,Nicolas Silva,São Paulo,SP,Sudeste,2022-05-29,Pessoa Física
+CLI-0142,Ana Pereira,Campinas,SP,Sudeste,2022-12-09,Pessoa Física
+CLI-0143,Isabela Araujo,Campinas,SP,Sudeste,2024-06-26,Pessoa Física
+CLI-0144,Ana Carvalho,Londrina,PR,Sul,2024-01-05,Pessoa Física
+CLI-0145,Olívia Barbosa,Porto Alegre,RS,Sul,2023-11-15,Pessoa Física
+CLI-0146,Helena Gomes,Rio de Janeiro,RJ,Sudeste,2023-01-17,Pessoa Física
+CLI-0147,Gabriel Santos,Londrina,PR,Sul,2024-02-21,Pessoa Física
+CLI-0148,Helena Santos,Curitiba,PR,Sul,2023-07-23,Pequena Empresa
+CLI-0149,Paulo Almeida,Ribeirão Preto,SP,Sudeste,2023-04-20,Pessoa Física
+CLI-0150,Larissa Barbosa,Santos,SP,Sudeste,2023-09-12,Pessoa Física
+CLI-0151,Larissa Souza,Petrópolis,RJ,Sudeste,2023-07-31,Pequena Empresa
+CLI-0152,Paulo Almeida,São Paulo,SP,Sudeste,2023-06-18,Pessoa Física
+CLI-0153,Caio Carvalho,Petrolina,PE,Nordeste,2023-02-09,Pessoa Física
+CLI-0154,Gabriel Barbosa,Joinville,SC,Sul,2024-02-08,Pessoa Física
+CLI-0155,Beatriz Silva,Blumenau,SC,Sul,2023-05-20,Pessoa Física
+CLI-0156,Diego Silva,Cascavel,PR,Sul,2024-10-14,Média Empresa
+CLI-0157,Bianca Silva,Pelotas,RS,Sul,2024-07-24,Pessoa Física
+CLI-0158,Valentina Araujo,Belo Horizonte,MG,Sudeste,2023-08-19,Pessoa Física
+CLI-0159,Paulo Lima,Caxias do Sul,RS,Sul,2024-05-08,Pessoa Física
+CLI-0160,Victor Santos,Rio de Janeiro,RJ,Sudeste,2022-09-12,Pessoa Física
+CLI-0161,Camila Oliveira,São Paulo,SP,Sudeste,2022-12-12,Pessoa Física
+CLI-0162,Sofia Lima,Serra,ES,Sudeste,2022-04-22,Pequena Empresa
+CLI-0163,Gustavo Almeida,São Paulo,SP,Sudeste,2024-12-23,Pessoa Física
+CLI-0164,Pedro Ribeiro,Niterói,RJ,Sudeste,2022-11-13,Pessoa Física
+CLI-0165,Gustavo Carvalho,Rio de Janeiro,RJ,Sudeste,2023-06-02,Pessoa Física
+CLI-0166,Pedro Santos,São Paulo,SP,Sudeste,2024-12-10,Pessoa Física
+CLI-0167,Rafael Ferreira,Belo Horizonte,MG,Sudeste,2024-08-06,Pessoa Física
+CLI-0168,Mateus Gomes,Caruaru,PE,Nordeste,2024-07-28,Pequena Empresa
+CLI-0169,Helena Rocha,Contagem,MG,Sudeste,2023-07-23,Pessoa Física
+CLI-0170,Gabriel Martins,Rio de Janeiro,RJ,Sudeste,2023-05-25,Pessoa Física
+CLI-0171,Pedro Araujo,São Paulo,SP,Sudeste,2022-10-14,Pessoa Física
+CLI-0172,Bruno Silva,São José dos Campos,SP,Sudeste,2022-08-21,Pessoa Física
+CLI-0173,Gustavo Souza,São Paulo,SP,Sudeste,2022-12-18,Pessoa Física
+CLI-0174,Olívia Oliveira,Campinas,SP,Sudeste,2024-05-28,Pessoa Física
+CLI-0175,Ana Oliveira,Curitiba,PR,Sul,2023-03-09,Pessoa Física
+CLI-0176,Victor Carvalho,Curitiba,PR,Sul,2024-12-05,Pessoa Física
+CLI-0177,Ana Barbosa,Joinville,SC,Sul,2023-12-08,Pequena Empresa
+CLI-0178,Fernanda Ferreira,São Paulo,SP,Sudeste,2023-12-04,Pessoa Física
+CLI-0179,Beatriz Barbosa,Niterói,RJ,Sudeste,2024-02-03,Pequena Empresa
+CLI-0180,Pedro Martins,Pelotas,RS,Sul,2024-10-10,Pessoa Física
+CLI-0181,Paulo Santos,Salvador,BA,Nordeste,2024-03-13,Pequena Empresa
+CLI-0182,Valentina Pereira,Ribeirão Preto,SP,Sudeste,2022-01-10,Pessoa Física
+CLI-0183,Victor Lima,Rio de Janeiro,RJ,Sudeste,2023-01-12,Pessoa Física
+CLI-0184,Olívia Martins,Belo Horizonte,MG,Sudeste,2022-11-01,Pessoa Física
+CLI-0185,Victor Costa,Contagem,MG,Sudeste,2022-07-24,Pequena Empresa
+CLI-0186,Lucas Almeida,São Paulo,SP,Sudeste,2023-12-13,Pessoa Física
+CLI-0187,Rafael Carvalho,Petrópolis,RJ,Sudeste,2022-02-08,Média Empresa
+CLI-0188,Pedro Santos,Anápolis,GO,Centro-Oeste,2024-07-16,Pessoa Física
+CLI-0189,Igor Araujo,Florianópolis,SC,Sul,2023-07-29,Média Empresa
+CLI-0190,Helena Oliveira,São Paulo,SP,Sudeste,2023-10-07,Pessoa Física
+CLI-0191,Bruno Santos,Campinas,SP,Sudeste,2023-03-28,Pequena Empresa
+CLI-0192,Valentina Costa,Porto Alegre,RS,Sul,2023-02-02,Pequena Empresa
+CLI-0193,Pedro Pereira,Niterói,RJ,Sudeste,2024-02-03,Pessoa Física
+CLI-0194,Lucas Oliveira,Petrópolis,RJ,Sudeste,2024-01-07,Pessoa Física
+CLI-0195,Bianca Santos,São Paulo,SP,Sudeste,2023-05-11,Pessoa Física
+CLI-0196,Beatriz Costa,Belo Horizonte,MG,Sudeste,2022-02-28,Pessoa Física
+CLI-0197,Thiago Pereira,Londrina,PR,Sul,2023-08-13,Pessoa Física
+CLI-0198,Paulo Silva,Santos,SP,Sudeste,2023-03-27,Pessoa Física
+CLI-0199,Isabela Martins,Caruaru,PE,Nordeste,2022-02-17,Pessoa Física
+CLI-0200,Larissa Ferreira,Rio de Janeiro,RJ,Sudeste,2024-07-05,Pessoa Física
+CLI-0201,Luana Rocha,Curitiba,PR,Sul,2024-11-06,Pessoa Física
+CLI-0202,Paulo Lima,Rio de Janeiro,RJ,Sudeste,2022-11-02,Pequena Empresa
+CLI-0203,Lucas Costa,Curitiba,PR,Sul,2023-07-04,Pequena Empresa
+CLI-0204,Gabriel Araujo,Vila Velha,ES,Sudeste,2023-10-05,Pessoa Física
+CLI-0205,Mateus Lima,Feira de Santana,BA,Nordeste,2023-03-31,Pessoa Física
+CLI-0206,Eduardo Silva,Contagem,MG,Sudeste,2022-11-24,Pessoa Física
+CLI-0207,Beatriz Almeida,Vila Velha,ES,Sudeste,2024-06-28,Pessoa Física
+CLI-0208,Bruno Pereira,Florianópolis,SC,Sul,2023-02-09,Pessoa Física
+CLI-0209,Paulo Souza,Campinas,SP,Sudeste,2023-12-28,Pessoa Física
+CLI-0210,Paulo Pereira,Caxias do Sul,RS,Sul,2023-11-16,Pessoa Física
+CLI-0211,Eduardo Souza,São Paulo,SP,Sudeste,2022-01-25,Pessoa Física
+CLI-0212,Marina Almeida,Petrópolis,RJ,Sudeste,2024-10-18,Pessoa Física
+CLI-0213,Marina Silva,Ribeirão Preto,SP,Sudeste,2023-08-11,Pessoa Física
+CLI-0214,Beatriz Almeida,Recife,PE,Nordeste,2024-10-09,Pessoa Física
+CLI-0215,Bruno Gomes,Curitiba,PR,Sul,2022-05-26,Pessoa Física
+CLI-0216,Thiago Carvalho,Salvador,BA,Nordeste,2022-09-05,Pessoa Física
+CLI-0217,Camila Ferreira,Contagem,MG,Sudeste,2023-07-19,Pessoa Física
+CLI-0218,Lucas Rocha,Vila Velha,ES,Sudeste,2022-11-28,Pequena Empresa
+CLI-0219,Larissa Lima,São Paulo,SP,Sudeste,2023-06-23,Pessoa Física
+CLI-0220,Bianca Gomes,Rio de Janeiro,RJ,Sudeste,2023-08-27,Pessoa Física
+CLI-0221,Fernanda Araujo,São Paulo,SP,Sudeste,2024-03-12,Pessoa Física
+CLI-0222,Camila Martins,São Paulo,SP,Sudeste,2022-10-30,Pessoa Física
+CLI-0223,Bruno Rocha,Belo Horizonte,MG,Sudeste,2023-05-01,Pessoa Física
+CLI-0224,Larissa Ferreira,Belo Horizonte,MG,Sudeste,2022-12-19,Pessoa Física
+CLI-0225,Bianca Costa,São Paulo,SP,Sudeste,2023-07-31,Pequena Empresa
+CLI-0226,Thiago Carvalho,Niterói,RJ,Sudeste,2023-07-29,Pessoa Física
+CLI-0227,Bianca Araujo,Curitiba,PR,Sul,2023-11-20,Média Empresa
+CLI-0228,Beatriz Silva,Pelotas,RS,Sul,2022-03-29,Pessoa Física
+CLI-0229,Eduardo Souza,Goiânia,GO,Centro-Oeste,2024-09-15,Pessoa Física
+CLI-0230,Gustavo Rocha,Rio de Janeiro,RJ,Sudeste,2024-03-25,Pessoa Física
+CLI-0231,Victor Costa,Porto Alegre,RS,Sul,2024-08-10,Pequena Empresa
+CLI-0232,Igor Ribeiro,Contagem,MG,Sudeste,2024-08-15,Pessoa Física
+CLI-0233,Bianca Silva,Salvador,BA,Nordeste,2024-01-01,Pessoa Física
+CLI-0234,Beatriz Santos,Rio de Janeiro,RJ,Sudeste,2022-08-26,Pessoa Física
+CLI-0235,Bianca Ferreira,Porto Alegre,RS,Sul,2023-03-18,Pessoa Física
+CLI-0236,Helena Oliveira,Uberlândia,MG,Sudeste,2024-11-11,Pessoa Física
+CLI-0237,Rafael Almeida,São Paulo,SP,Sudeste,2022-04-17,Pessoa Física
+CLI-0238,Júlia Carvalho,Vila Velha,ES,Sudeste,2023-12-09,Pequena Empresa
+CLI-0239,Pedro Costa,Petrolina,PE,Nordeste,2024-10-25,Pessoa Física
+CLI-0240,Thiago Rocha,Campinas,SP,Sudeste,2023-07-27,Pessoa Física
+CLI-0241,Thiago Costa,São Paulo,SP,Sudeste,2022-12-21,Pequena Empresa
+CLI-0242,Gustavo Martins,Niterói,RJ,Sudeste,2022-01-09,Pessoa Física
+CLI-0243,Valentina Araujo,Rio de Janeiro,RJ,Sudeste,2023-02-25,Pessoa Física
+CLI-0244,Bianca Carvalho,São Paulo,SP,Sudeste,2022-04-24,Pessoa Física
+CLI-0245,Isabela Barbosa,Belo Horizonte,MG,Sudeste,2022-10-15,Pessoa Física
+CLI-0246,Júlia Pereira,Belo Horizonte,MG,Sudeste,2022-08-11,Pessoa Física
+CLI-0247,Igor Rocha,Vitória,ES,Sudeste,2023-01-19,Pessoa Física
+CLI-0248,Bruno Rocha,Juiz de Fora,MG,Sudeste,2023-09-19,Pequena Empresa
+CLI-0249,Rafaela Almeida,São Paulo,SP,Sudeste,2024-10-02,Pessoa Física
+CLI-0250,Camila Costa,Belo Horizonte,MG,Sudeste,2024-01-04,Pessoa Física
+CLI-0251,Beatriz Martins,Pelotas,RS,Sul,2024-04-28,Pequena Empresa
+CLI-0252,Bianca Costa,São Paulo,SP,Sudeste,2024-06-13,Pessoa Física
+CLI-0253,Júlia Oliveira,São Paulo,SP,Sudeste,2022-05-28,Pessoa Física
+CLI-0254,Olívia Ribeiro,Santos,SP,Sudeste,2022-07-28,Pessoa Física
+CLI-0255,Mateus Ribeiro,São Paulo,SP,Sudeste,2022-05-24,Pessoa Física
+CLI-0256,Fernanda Carvalho,Juiz de Fora,MG,Sudeste,2024-02-21,Pessoa Física
+CLI-0257,Larissa Santos,Rio de Janeiro,RJ,Sudeste,2023-04-10,Pessoa Física
+CLI-0258,Bruno Rocha,Porto Alegre,RS,Sul,2024-07-07,Pessoa Física
+CLI-0259,Camila Santos,Rio de Janeiro,RJ,Sudeste,2024-02-23,Pequena Empresa
+CLI-0260,Caio Oliveira,Caxias do Sul,RS,Sul,2022-05-31,Pessoa Física
+CLI-0261,Lucas Barbosa,Juiz de Fora,MG,Sudeste,2023-09-16,Pessoa Física
+CLI-0262,Mateus Santos,São Paulo,SP,Sudeste,2024-01-27,Pessoa Física
+CLI-0263,Helena Ribeiro,Ribeirão Preto,SP,Sudeste,2023-04-01,Pessoa Física
+CLI-0264,Beatriz Costa,Campinas,SP,Sudeste,2022-11-01,Pessoa Física
+CLI-0265,Bianca Lima,São Paulo,SP,Sudeste,2023-06-09,Pessoa Física
+CLI-0266,Diego Ferreira,Fortaleza,CE,Nordeste,2024-08-28,Pequena Empresa
+CLI-0267,Pedro Pereira,Fortaleza,CE,Nordeste,2024-10-16,Pessoa Física
+CLI-0268,Mateus Souza,Campinas,SP,Sudeste,2024-04-27,Pessoa Física
+CLI-0269,Sofia Barbosa,São Paulo,SP,Sudeste,2023-02-10,Pessoa Física
+CLI-0270,Valentina Rocha,Londrina,PR,Sul,2023-09-04,Média Empresa
+CLI-0271,Larissa Almeida,Maringá,PR,Sul,2023-09-10,Pessoa Física
+CLI-0272,Nicolas Ribeiro,Curitiba,PR,Sul,2023-01-25,Pequena Empresa
+CLI-0273,Larissa Araujo,Cascavel,PR,Sul,2023-02-14,Pessoa Física
+CLI-0274,Paulo Martins,Feira de Santana,BA,Nordeste,2022-05-05,Pessoa Física
+CLI-0275,Pedro Carvalho,São Paulo,SP,Sudeste,2022-09-30,Pessoa Física
+CLI-0276,Sofia Santos,Belo Horizonte,MG,Sudeste,2024-02-05,Pequena Empresa
+CLI-0277,Rafaela Araujo,Salvador,BA,Nordeste,2022-02-19,Média Empresa
+CLI-0278,Paulo Silva,Juiz de Fora,MG,Sudeste,2022-10-21,Pequena Empresa
+CLI-0279,Rafael Carvalho,Petrolina,PE,Nordeste,2022-05-18,Pessoa Física
+CLI-0280,Ana Rocha,Fortaleza,CE,Nordeste,2024-04-22,Pequena Empresa
+CLI-0281,Valentina Santos,Vitória,ES,Sudeste,2023-07-08,Pequena Empresa
+CLI-0282,Fernanda Gomes,Campinas,SP,Sudeste,2024-09-02,Pessoa Física
+CLI-0283,Caio Oliveira,Campinas,SP,Sudeste,2024-09-24,Pessoa Física
+CLI-0284,Isabela Santos,Uberlândia,MG,Sudeste,2023-10-06,Pessoa Física
+CLI-0285,Luana Ferreira,Juiz de Fora,MG,Sudeste,2023-01-11,Pessoa Física
+CLI-0286,Larissa Lima,Rio de Janeiro,RJ,Sudeste,2023-04-23,Pessoa Física
+CLI-0287,Sofia Barbosa,Curitiba,PR,Sul,2022-03-03,Pequena Empresa
+CLI-0288,Thiago Gomes,Salvador,BA,Nordeste,2022-03-29,Pessoa Física
+CLI-0289,Bruno Ribeiro,Caxias do Sul,RS,Sul,2024-11-28,Pessoa Física
+CLI-0290,Diego Gomes,São Paulo,SP,Sudeste,2024-07-03,Pessoa Física
+CLI-0291,Mateus Rocha,Campinas,SP,Sudeste,2022-06-05,Pessoa Física
+CLI-0292,Diego Santos,São Paulo,SP,Sudeste,2023-03-01,Pequena Empresa
+CLI-0293,Nicolas Pereira,Vitória,ES,Sudeste,2023-01-09,Pessoa Física
+CLI-0294,Gabriel Santos,Feira de Santana,BA,Nordeste,2023-06-20,Pessoa Física
+CLI-0295,Bianca Oliveira,Ribeirão Preto,SP,Sudeste,2022-02-17,Pessoa Física
+CLI-0296,Marina Ribeiro,São José dos Campos,SP,Sudeste,2024-12-11,Pessoa Física
+CLI-0297,Mateus Martins,Londrina,PR,Sul,2023-10-16,Pequena Empresa
+CLI-0298,Rafael Barbosa,Campinas,SP,Sudeste,2023-10-02,Pessoa Física
+CLI-0299,Victor Rocha,Caxias do Sul,RS,Sul,2022-01-02,Pequena Empresa
+CLI-0300,Mateus Martins,Rio de Janeiro,RJ,Sudeste,2024-02-25,Pessoa Física
+CLI-0301,Júlia Ribeiro,Uberlândia,MG,Sudeste,2022-10-05,Pessoa Física
+CLI-0302,Fernanda Rocha,Petrópolis,RJ,Sudeste,2023-12-19,Pessoa Física
+CLI-0303,Eduardo Ribeiro,Caruaru,PE,Nordeste,2024-05-11,Pessoa Física
+CLI-0304,Larissa Rocha,São José dos Campos,SP,Sudeste,2024-01-20,Média Empresa
+CLI-0305,Pedro Barbosa,São Paulo,SP,Sudeste,2024-11-26,Pessoa Física
+CLI-0306,Bruno Almeida,Rio de Janeiro,RJ,Sudeste,2024-10-15,Pessoa Física
+CLI-0307,Thiago Ribeiro,Rio de Janeiro,RJ,Sudeste,2024-09-05,Pessoa Física
+CLI-0308,Luana Costa,Niterói,RJ,Sudeste,2023-08-25,Pessoa Física
+CLI-0309,Nicolas Santos,Londrina,PR,Sul,2023-05-21,Pessoa Física
+CLI-0310,Fernanda Ribeiro,Feira de Santana,BA,Nordeste,2024-04-30,Pessoa Física
+CLI-0311,Caio Carvalho,São Paulo,SP,Sudeste,2023-06-13,Pessoa Física
+CLI-0312,Fernanda Lima,São Paulo,SP,Sudeste,2022-06-20,Pequena Empresa
+CLI-0313,Gabriel Almeida,São Paulo,SP,Sudeste,2022-11-16,Pequena Empresa
+CLI-0314,Camila Oliveira,Salvador,BA,Nordeste,2024-10-27,Pessoa Física
+CLI-0315,Caio Oliveira,São Paulo,SP,Sudeste,2023-01-02,Pessoa Física
+CLI-0316,Paulo Lima,São José dos Campos,SP,Sudeste,2023-09-16,Pessoa Física
+CLI-0317,Larissa Silva,Rio de Janeiro,RJ,Sudeste,2023-05-06,Pessoa Física
+CLI-0318,Gabriel Costa,Volta Redonda,RJ,Sudeste,2023-06-30,Pessoa Física
+CLI-0319,Ana Pereira,São Paulo ,SP,Sudeste,2023-11-22,Pessoa Física
+CLI-0320,Beatriz Martins,São Paulo,SP,Sudeste,2023-10-13,Pessoa Física
+CLI-0321,Júlia Santos,Contagem,MG,Sudeste,2023-01-12,Pequena Empresa
+CLI-0322,Luana Barbosa,Campinas,SP,Sudeste,2022-08-26,Pessoa Física
+CLI-0323,Nicolas Martins,Recife,PE,Nordeste,2022-10-28,Pessoa Física
+CLI-0324,Mateus Martins,Contagem,MG,Sudeste,2023-05-31,Pessoa Física
+CLI-0325,Igor Carvalho,São Paulo,SP,Sudeste,2022-11-18,Pessoa Física
+CLI-0326,Lucas Martins,São Paulo,SP,Sudeste,2024-08-30,Pessoa Física
+CLI-0327,Isabela Silva,Ribeirão Preto,SP,Sudeste,2022-09-08,Pequena Empresa
+CLI-0328,Caio Martins,São Paulo,SP,Sudeste,2022-06-25,Pessoa Física
+CLI-0329,Olívia Araujo,Caxias do Sul,RS,Sul,2022-01-26,Pessoa Física
+CLI-0330,Bruno Oliveira,Rio de Janeiro,RJ,Sudeste,2022-10-08,Pessoa Física
+CLI-0331,Olívia Barbosa,Ribeirão Preto,SP,Sudeste,2023-03-25,Média Empresa
+CLI-0332,Lucas Santos,Contagem,MG,Sudeste,2022-12-24,Pequena Empresa
+CLI-0333,Marina Rocha,Joinville,SC,Sul,2024-01-12,Pessoa Física
+CLI-0334,Júlia Rocha,Recife,PE,Nordeste,2024-03-10,Pessoa Física
+CLI-0335,Thiago Lima,Blumenau,SC,Sul,2022-11-16,Média Empresa
+CLI-0336,Paulo Carvalho,Recife,PE,Nordeste,2022-07-16,Pessoa Física
+CLI-0337,Helena Pereira,Londrina,PR,Sul,2024-02-28,Pessoa Física
+CLI-0338,Helena Barbosa,São Paulo,SP,Sudeste,2022-10-03,Pequena Empresa
+CLI-0339,Thiago Rocha,Contagem,MG,Sudeste,2022-09-08,Pequena Empresa
+CLI-0340,Eduardo Souza,Rio de Janeiro,RJ,Sudeste,2024-09-19,Pessoa Física
+CLI-0341,Rafaela Lima,Londrina,PR,Sul,2024-01-02,Pessoa Física
+CLI-0342,Marina Araujo,Anápolis,GO,Centro-Oeste,2022-03-06,Pessoa Física
+CLI-0343,Gabriel Araujo,Feira de Santana,BA,Nordeste,2023-05-28,Pessoa Física
+CLI-0344,Isabela Rocha,Curitiba,PR,Sul,2024-10-08,Pessoa Física
+CLI-0345,Victor Carvalho,São Paulo,SP,Sudeste,2022-06-20,Pessoa Física
+CLI-0346,Júlia Oliveira,Rio de Janeiro,RJ,Sudeste,2022-05-27,Pequena Empresa
+CLI-0347,Olívia Martins,São José dos Campos,SP,Sudeste,2024-02-08,Pequena Empresa
+CLI-0348,Camila Carvalho,Niterói,RJ,Sudeste,2023-11-10,Pessoa Física
+CLI-0349,Pedro Barbosa,Blumenau,SC,Sul,2023-10-08,Pessoa Física
+CLI-0350,Pedro Carvalho,São José dos Campos,SP,Sudeste,2024-02-29,Pequena Empresa
+CLI-0351,Diego Lima,Rio de Janeiro,RJ,Sudeste,2023-06-17,Pessoa Física
+CLI-0352,Marina Costa,Volta Redonda,RJ,Sudeste,2024-09-04,Pessoa Física
+CLI-0353,Thiago Araujo,Rio de Janeiro,RJ,Sudeste,2024-10-09,Pessoa Física
+CLI-0354,Bruno Santos,Curitiba,PR,Sul,2022-01-08,Média Empresa
+CLI-0355,Igor Ribeiro,Belo Horizonte,MG,Sudeste,2024-04-03,Pequena Empresa
+CLI-0356,Caio Araujo,Santos,SP,Sudeste,2024-05-01,Pessoa Física
+CLI-0357,Paulo Gomes,Recife,PE,Nordeste,2022-01-27,Pequena Empresa
+CLI-0358,Thiago Souza,São Paulo,SP,Sudeste,2022-08-21,Pessoa Física
+CLI-0359,Gabriel Gomes,Campinas,SP,Sudeste,2022-08-27,Pessoa Física
+CLI-0360,Lucas Oliveira,Anápolis,GO,Centro-Oeste,2023-08-09,Pessoa Física
+CLI-0361,Eduardo Gomes,Niterói,RJ,Sudeste,2024-07-07,Pequena Empresa
+CLI-0362,Victor Oliveira,Fortaleza,CE,Nordeste,2022-07-04,Pessoa Física
+CLI-0363,Thiago Souza,São Paulo,SP,Sudeste,2023-12-26,Pessoa Física
+CLI-0364,Júlia Ribeiro,São Paulo,SP,Sudeste,2022-10-26,Pequena Empresa
+CLI-0365,Bruno Ribeiro,Curitiba,PR,Sul,2024-07-06,Média Empresa
+CLI-0366,Igor Martins,Rio de Janeiro,RJ,Sudeste,2024-08-22,Pessoa Física
+CLI-0367,Beatriz Gomes,São Paulo,SP,Sudeste,2024-09-16,Pessoa Física
+CLI-0368,Pedro Ferreira,São José dos Campos,SP,Sudeste,2024-09-04,Pessoa Física
+CLI-0369,Valentina Ribeiro,Uberlândia,MG,Sudeste,2024-11-23,Pessoa Física
+CLI-0370,Caio Carvalho,Rio de Janeiro,RJ,Sudeste,2023-06-09,Pessoa Física
+CLI-0371,Caio Araujo,Caxias do Sul,RS,Sul,2022-01-26,Pessoa Física
+CLI-0372,Thiago Silva,Petrópolis,RJ,Sudeste,2024-02-06,Pessoa Física
+CLI-0373,Diego Almeida,Santos,SP,Sudeste,2022-05-11,Pessoa Física
+CLI-0374,Bruno Oliveira,Caxias do Sul,RS,Sul,2023-10-06,Média Empresa
+CLI-0375,Victor Araujo,Salvador,BA,Nordeste,2022-11-01,Pessoa Física
+CLI-0376,Olívia Rocha,Belo Horizonte,MG,Sudeste,2023-12-16,Pessoa Física
+CLI-0377,Paulo Ribeiro,Contagem,MG,Sudeste,2024-07-13,Pessoa Física
+CLI-0378,Luana Pereira,São Paulo,SP,Sudeste,2024-09-12,Pequena Empresa
+CLI-0379,Camila Silva,Uberlândia,MG,Sudeste,2022-05-22,Pessoa Física
+CLI-0380,Olívia Araujo,Salvador,BA,Nordeste,2022-05-22,Pessoa Física
+CLI-0381,Eduardo Martins,Campinas,SP,Sudeste,2024-05-17,Pessoa Física
+CLI-0382,Fernanda Lima,Caxias do Sul,RS,Sul,2023-10-14,Pessoa Física
+CLI-0383,Helena Barbosa,Belo Horizonte,MG,Sudeste,2023-10-14,Pessoa Física
+CLI-0384,Lucas Costa,Ribeirão Preto,SP,Sudeste,2022-11-12,Pessoa Física
+CLI-0385,Rafael Barbosa,Volta Redonda,RJ,Sudeste,2023-09-13,Pessoa Física
+CLI-0386,Diego Ribeiro,Pelotas,RS,Sul,2022-03-22,Pessoa Física
+CLI-0387,Luana Gomes,São Paulo,SP,Sudeste,2022-05-30,Pessoa Física
+CLI-0388,Helena Rocha,Niterói,RJ,Sudeste,2023-01-02,Pessoa Física
+CLI-0389,Ana Almeida,São José dos Campos,SP,Sudeste,2023-01-16,Pessoa Física
+CLI-0390,Bruno Pereira,Campinas,SP,Sudeste,2024-08-22,Pequena Empresa
+CLI-0391,Gustavo Lima,Curitiba,PR,Sul,2022-07-23,Pessoa Física
+CLI-0392,Paulo Santos,Rio de Janeiro,RJ,Sudeste,2024-01-02,Pessoa Física
+CLI-0393,Fernanda Carvalho,Niterói,RJ,Sudeste,2024-06-21,Pessoa Física
+CLI-0394,Lucas Souza,Florianópolis,SC,Sul,2022-06-14,Pessoa Física
+CLI-0395,Isabela Silva,Campinas,SP,Sudeste,2024-12-12,Pessoa Física
+CLI-0396,Fernanda Silva,Salvador,BA,Nordeste,2023-04-04,Pessoa Física
+CLI-0397,Beatriz Santos,São Paulo,SP,Sudeste,2024-06-23,Pessoa Física
+CLI-0398,Olívia Almeida,São Paulo,SP,Sudeste,2022-07-13,Pessoa Física
+CLI-0399,Victor Souza,Uberlândia,MG,Sudeste,2023-02-03,Pequena Empresa
+CLI-0400,Lucas Carvalho,São Paulo,SP,Sudeste,2023-03-18,Pequena Empresa
+CLI-0401,Mateus Rocha,Porto Alegre,RS,Sul,2024-02-06,Pessoa Física
+CLI-0402,Isabela Ferreira,Fortaleza,CE,Nordeste,2023-05-11,Pessoa Física
+CLI-0403,Beatriz Souza,Belo Horizonte,MG,Sudeste,2024-06-12,Pessoa Física
+CLI-0404,Valentina Carvalho,Belo Horizonte,MG,Sudeste,2022-01-17,Pequena Empresa
+CLI-0405,Caio Martins,São Paulo,SP,Sudeste,2023-09-29,Pessoa Física
+CLI-0406,Bianca Ferreira,Santos,SP,Sudeste,2023-09-21,Pessoa Física
+CLI-0407,Larissa Rocha,Curitiba,PR,Sul,2022-09-03,Pequena Empresa
+CLI-0408,Rafaela Ferreira,Santos,SP,Sudeste,2023-05-05,Pessoa Física
+CLI-0409,Ana Ferreira,São Paulo,SP,Sudeste,2024-02-25,Pessoa Física
+CLI-0410,Luana Almeida,São José dos Campos,SP,Sudeste,2022-08-09,Pessoa Física
+CLI-0411,Igor Rocha,Rio de Janeiro,RJ,Sudeste,2024-01-02,Pessoa Física
+CLI-0412,Rafaela Costa,São Paulo,SP,Sudeste,2022-01-15,Pequena Empresa
+CLI-0413,Isabela Araujo,São José dos Campos,SP,Sudeste,2024-09-02,Pessoa Física
+CLI-0414,Paulo Lima,Ribeirão Preto,SP,Sudeste,2024-01-13,Pessoa Física
+CLI-0415,Diego Lima,Volta Redonda,RJ,Sudeste,2022-03-05,Pessoa Física
+CLI-0416,Gabriel Lima,São Paulo,SP,Sudeste,2024-03-10,Pessoa Física
+CLI-0417,Júlia Rocha,Caxias do Sul,RS,Sul,2024-01-08,Pessoa Física
+CLI-0418,Pedro Lima,São Paulo,SP,Sudeste,2022-11-29,Pessoa Física
+CLI-0419,Gabriel Martins,São Paulo,SP,Sudeste,2022-05-30,Pessoa Física
+CLI-0420,Sofia Rocha,Uberlândia,MG,Sudeste,2024-05-11,Pessoa Física
+CLI-0421,Victor Santos,Feira de Santana,BA,Nordeste,2022-07-08,Pessoa Física
+CLI-0422,Isabela Almeida,Campinas,SP,Sudeste,2023-05-23,Pessoa Física
+CLI-0423,Bruno Pereira,Joinville,SC,Sul,2022-01-05,Pequena Empresa
+CLI-0424,Victor Ferreira,Santos,SP,Sudeste,2022-07-12,Pessoa Física
+CLI-0425,Thiago Martins,Rio de Janeiro,RJ,Sudeste,2022-12-31,Pessoa Física
+CLI-0426,Victor Carvalho,São Paulo,SP,Sudeste,2023-07-29,Pessoa Física
+CLI-0427,Bianca Pereira,Anápolis,GO,Centro-Oeste,2023-07-14,Pessoa Física
+CLI-0428,Helena Pereira,Niterói,RJ,Sudeste,2022-04-23,Pessoa Física
+CLI-0429,Lucas Costa,Feira de Santana,BA,Nordeste,2023-09-14,Pessoa Física
+CLI-0430,Diego Almeida,São Paulo,SP,Sudeste,2022-09-22,Pessoa Física
+CLI-0431,Valentina Ribeiro,Campinas,SP,Sudeste,2023-12-01,Pessoa Física
+CLI-0432,Lucas Pereira,Curitiba,PR,Sul,2023-01-30,Pessoa Física
+CLI-0433,Eduardo Martins,Campinas,SP,Sudeste,2022-06-03,Pessoa Física
+CLI-0434,Lucas Barbosa,Campinas,SP,Sudeste,2023-01-13,Pessoa Física
+CLI-0435,Bruno Silva,Rio de Janeiro,RJ,Sudeste,2023-12-18,Pessoa Física
+CLI-0436,Luana Souza,Serra,ES,Sudeste,2023-12-12,Pessoa Física
+CLI-0437,Thiago Silva,Salvador,BA,Nordeste,2024-03-24,Média Empresa
+CLI-0438,Nicolas Silva,Sobral,CE,Nordeste,2023-04-23,Pessoa Física
+CLI-0439,Rafaela Santos,Anápolis,GO,Centro-Oeste,2022-06-01,Pessoa Física
+CLI-0440,Rafael Ribeiro,São Paulo,SP,Sudeste,2024-07-02,Média Empresa
+CLI-0441,Mateus Martins,Caxias do Sul,RS,Sul,2024-12-03,Pequena Empresa
+CLI-0442,Rafaela Pereira,Porto Alegre,RS,Sul,2023-02-02,Pequena Empresa
+CLI-0443,Júlia Carvalho,Niterói,RJ,Sudeste,2024-06-28,Pessoa Física
+CLI-0444,Diego Lima,Porto Alegre,RS,Sul,2022-08-23,Pessoa Física
+CLI-0445,Caio Araujo,Serra,ES,Sudeste,2022-04-18,Pessoa Física
+CLI-0446,Bruno Ribeiro,Volta Redonda,RJ,Sudeste,2022-11-15,Pequena Empresa
+CLI-0447,Eduardo Rocha,Brasília,DF,Centro-Oeste,2023-10-16,Pequena Empresa
+CLI-0448,Bruno Costa,Ribeirão Preto,SP,Sudeste,2024-07-26,Pessoa Física
+CLI-0449,Diego Almeida,Porto Alegre,RS,Sul,2022-10-01,Pessoa Física
+CLI-0450,Bruno Souza,Belo Horizonte,MG,Sudeste,2024-02-20,Pessoa Física
+CLI-0451,Thiago Lima,São Paulo,SP,Sudeste,2023-06-26,Pessoa Física
+CLI-0452,Gabriel Ferreira,Cascavel,PR,Sul,2023-11-08,Média Empresa
+CLI-0453,Sofia Souza,Curitiba,PR,Sul,2023-10-24,Pessoa Física
+CLI-0454,Diego Barbosa,Contagem,MG,Sudeste,2024-02-23,Pequena Empresa
+CLI-0455,Igor Lima,Florianópolis,SC,Sul,2024-07-07,Pessoa Física
+CLI-0456,Bianca Barbosa,Salvador,BA,Nordeste,2024-12-12,Pessoa Física
+CLI-0457,Igor Lima,São Paulo,SP,Sudeste,2023-01-21,Pessoa Física
+CLI-0458,Rafaela Carvalho,Campinas,SP,Sudeste,2022-08-22,Média Empresa
+CLI-0459,Olívia Martins,Petrópolis,RJ,Sudeste,2023-04-26,Pessoa Física
+CLI-0460,Paulo Santos,São Paulo,SP,Sudeste,2023-05-21,Pessoa Física
+CLI-0461,Lucas Pereira,São Paulo,SP,Sudeste,2024-01-16,Pessoa Física
+CLI-0462,Beatriz Ribeiro,Porto Alegre,RS,Sul,2023-10-30,Pessoa Física
+CLI-0463,Camila Rocha,Florianópolis,SC,Sul,2022-07-10,Pessoa Física
+CLI-0464,Bruno Carvalho,Contagem,MG,Sudeste,2022-01-14,Pessoa Física
+CLI-0465,Camila Costa,São Paulo,SP,Sudeste,2024-02-12,Pessoa Física
+CLI-0466,Júlia Souza,Campinas,SP,Sudeste,2024-09-26,Pessoa Física
+CLI-0467,Larissa Souza,Recife,PE,Nordeste,2023-08-30,Pessoa Física
+CLI-0468,Valentina Pereira,Campinas,SP,Sudeste,2023-05-13,Pessoa Física
+CLI-0469,Júlia Rocha,São Paulo,SP,Sudeste,2022-01-28,Pequena Empresa
+CLI-0470,Lucas Lima,Belo Horizonte,MG,Sudeste,2022-09-07,Pessoa Física
+CLI-0471,Camila Oliveira,Brasília,DF,Centro-Oeste,2022-11-29,Pessoa Física
+CLI-0472,Caio Silva,Curitiba,PR,Sul,2024-03-11,Média Empresa
+CLI-0473,Ana Silva,Campinas,SP,Sudeste,2024-06-21,Pequena Empresa
+CLI-0474,Marina Araujo,Curitiba,PR,Sul,2023-08-06,Pequena Empresa
+CLI-0475,Caio Silva,Londrina,PR,Sul,2024-03-09,Pequena Empresa
+CLI-0476,Rafaela Gomes,Curitiba,PR,Sul,2023-07-30,Pessoa Física
+CLI-0477,Sofia Ribeiro,Porto Alegre,RS,Sul,2023-07-14,Pessoa Física
+CLI-0478,Paulo Barbosa,Juiz de Fora,MG,Sudeste,2023-04-05,Pequena Empresa
+CLI-0479,Luana Carvalho,São José dos Campos,SP,Sudeste,2022-06-08,Pessoa Física
+CLI-0480,Victor Costa,Porto Alegre,RS,Sul,2023-10-22,Pessoa Física
+CLI-0481,Júlia Barbosa,Brasília,DF,Centro-Oeste,2022-05-06,Pessoa Física
+CLI-0482,Pedro Lima,Campinas,SP,Sudeste,2022-02-11,Pessoa Física
+CLI-0483,Camila Costa,Belo Horizonte,MG,Sudeste,2022-01-10,Pessoa Física
+CLI-0484,Olívia Gomes,São Paulo,SP,Sudeste,2023-08-28,Pequena Empresa
+CLI-0485,Valentina Souza,Londrina,PR,Sul,2023-11-18,Pequena Empresa
+CLI-0486,Larissa Barbosa,Rio de Janeiro,RJ,Sudeste,2024-05-12,Pessoa Física
+CLI-0487,Olívia Souza,Porto Alegre,RS,Sul,2024-12-10,Pessoa Física
+CLI-0488,Isabela Oliveira,Caxias do Sul,RS,Sul,2023-08-19,Pequena Empresa
+CLI-0489,Bianca Oliveira,Juazeiro do Norte,CE,Nordeste,2024-12-17,Pessoa Física
+CLI-0490,Paulo Santos,Campinas,SP,Sudeste,2023-08-30,Pessoa Física
+CLI-0491,Beatriz Santos,Contagem,MG,Sudeste,2024-09-25,Média Empresa
+CLI-0492,Olívia Santos,Belo Horizonte,MG,Sudeste,2022-03-23,Pequena Empresa
+CLI-0493,Bruno Silva,Londrina,PR,Sul,2024-08-28,Pessoa Física
+CLI-0494,Caio Oliveira,Rio de Janeiro,RJ,Sudeste,2022-06-24,Média Empresa
+CLI-0495,Camila Santos,Recife,PE,Nordeste,2022-12-13,Pessoa Física
+CLI-0496,Olívia Pereira,Curitiba,PR,Sul,2023-03-22,Pessoa Física
+CLI-0497,Sofia Souza,Vila Velha,ES,Sudeste,2023-05-11,Pequena Empresa
+CLI-0498,Thiago Araujo,São Paulo,SP,Sudeste,2024-11-07,Pessoa Física
+CLI-0499,Victor Ribeiro,Vitória,ES,Sudeste,2024-11-05,Pessoa Física
+CLI-0500,Eduardo Silva,São Paulo,SP,Sudeste,2022-01-22,Pessoa Física
+CLI-0501,Rafael Pereira,São Paulo,SP,Sudeste,2023-06-25,Pessoa Física
+CLI-0502,Beatriz Almeida,Niterói,RJ,Sudeste,2022-08-03,Pessoa Física
+CLI-0503,Rafaela Gomes,Uberlândia,MG,Sudeste,2022-05-29,Média Empresa
+CLI-0504,Paulo Silva,Contagem,MG,Sudeste,2022-07-27,Pessoa Física
+CLI-0505,Victor Rocha,Rio de Janeiro,RJ,Sudeste,2022-07-10,Média Empresa
+CLI-0506,Pedro Rocha,Petrópolis,RJ,Sudeste,2024-06-10,Pequena Empresa
+CLI-0507,Pedro Ferreira,Porto Alegre,RS,Sul,2023-04-05,Pequena Empresa
+CLI-0508,Marina Souza,São Paulo,SP,Sudeste,2022-10-08,Pequena Empresa
+CLI-0509,Marina Lima,Niterói,RJ,Sudeste,2022-04-08,Pessoa Física
+CLI-0510,Luana Lima,Salvador,BA,Nordeste,2023-04-04,Pessoa Física
+CLI-0511,Marina Ribeiro,Curitiba,PR,Sul,2022-11-27,Pessoa Física
+CLI-0512,Thiago Araujo,Porto Alegre,RS,Sul,2023-06-06,Pequena Empresa
+CLI-0513,Nicolas Lima,São Paulo,SP,Sudeste,2023-11-11,Pessoa Física
+CLI-0514,Lucas Lima,São Paulo,SP,Sudeste,2024-03-08,Pessoa Física
+CLI-0515,Gustavo Lima,Porto Alegre,RS,Sul,2024-03-24,Pessoa Física
+CLI-0516,Rafaela Gomes,Juazeiro do Norte,CE,Nordeste,2022-08-25,Pequena Empresa
+CLI-0517,Olívia Costa,Contagem,MG,Sudeste,2024-02-25,Pessoa Física
+CLI-0518,Igor Barbosa,Ribeirão Preto,SP,Sudeste,2024-08-24,Pessoa Física
+CLI-0519,Paulo Silva,Curitiba,PR,Sul,2024-06-24,Pessoa Física
+CLI-0520,Paulo Araujo,São Paulo,SP,Sudeste,2023-06-04,Pessoa Física
+CLI-0521,Rafaela Santos,Joinville,SC,Sul,2023-03-20,Pessoa Física
+CLI-0522,Victor Souza,Belo Horizonte,MG,Sudeste,2024-02-29,Pessoa Física
+CLI-0523,Ana Martins,Porto Alegre,RS,Sul,2022-06-06,Pessoa Física
+CLI-0524,Ana Lima,Rio de Janeiro,RJ,Sudeste,2024-07-03,Pessoa Física
+CLI-0525,Rafaela Gomes,São Paulo,SP,Sudeste,2022-05-04,Pessoa Física
+CLI-0526,Caio Oliveira,São José dos Campos,SP,Sudeste,2022-06-19,Pessoa Física
+CLI-0527,Victor Carvalho,Campinas,SP,Sudeste,2022-05-05,Pequena Empresa
+CLI-0528,Diego Oliveira,Curitiba,PR,Sul,2022-11-07,Pessoa Física
+CLI-0529,Sofia Santos,Campinas,SP,Sudeste,2022-07-31,Pessoa Física
+CLI-0530,Thiago Carvalho,Florianópolis,SC,Sul,2024-06-13,Pequena Empresa
+CLI-0531,Fernanda Costa,Niterói,RJ,Sudeste,2024-06-05,Pessoa Física
+CLI-0532,Lucas Oliveira,Volta Redonda,RJ,Sudeste,2023-01-29,Pessoa Física
+CLI-0533,Olívia Ferreira,Florianópolis,SC,Sul,2022-06-09,Pessoa Física
+CLI-0534,Ana Ribeiro,Belo Horizonte,MG,Sudeste,2022-04-05,Pessoa Física
+CLI-0535,Paulo Silva,Niterói,RJ,Sudeste,2022-12-26,Pessoa Física
+CLI-0536,Nicolas Silva,Serra,ES,Sudeste,2022-04-24,Média Empresa
+CLI-0537,Valentina Silva,Santos,SP,Sudeste,2022-10-20,Pequena Empresa
+CLI-0538,Olívia Souza,São Paulo,SP,Sudeste,2022-12-11,Média Empresa
+CLI-0539,Eduardo Gomes,São Paulo,SP,Sudeste,2022-03-16,Pessoa Física
+CLI-0540,Paulo Oliveira,Salvador,BA,Nordeste,2022-03-16,Pessoa Física
+CLI-0541,Lucas Santos,Niterói,RJ,Sudeste,2023-04-19,Pessoa Física
+CLI-0542,Diego Ferreira,São Paulo,SP,Sudeste,2022-08-12,Pequena Empresa
+CLI-0543,Camila Almeida,São Paulo,SP,Sudeste,2023-03-22,Pessoa Física
+CLI-0544,Bruno Almeida,Vitória,ES,Sudeste,2023-10-15,Pessoa Física
+CLI-0545,Mateus Silva,São Paulo,SP,Sudeste,2022-09-09,Pessoa Física
+CLI-0546,Camila Gomes,Porto Alegre,RS,Sul,2023-01-22,Média Empresa
+CLI-0547,Paulo Ribeiro,São Paulo,SP,Sudeste,2024-03-03,Pessoa Física
+CLI-0548,Bruno Silva,Rio de Janeiro,RJ,Sudeste,2022-11-30,Pessoa Física
+CLI-0549,Olívia Souza,São Paulo,SP,Sudeste,2024-09-29,Pessoa Física
+CLI-0550,Gustavo Martins,São José dos Campos,SP,Sudeste,2023-01-06,Pessoa Física
+CLI-0551,Olívia Martins,Rio de Janeiro,RJ,Sudeste,2022-07-22,Pequena Empresa
+CLI-0552,Júlia Ferreira,São José dos Campos,SP,Sudeste,2022-09-23,Pessoa Física
+CLI-0553,Helena Araujo,Vila Velha,ES,Sudeste,2024-05-23,Pequena Empresa
+CLI-0554,Ana Martins,Vitória,ES,Sudeste,2022-09-04,Pessoa Física
+CLI-0555,Paulo Ferreira,São Paulo,SP,Sudeste,2024-05-17,Pessoa Física
+CLI-0556,Larissa Ribeiro,Fortaleza,CE,Nordeste,2023-10-10,Pessoa Física
+CLI-0557,Luana Araujo,Santos,SP,Sudeste,2024-02-22,Pessoa Física
+CLI-0558,Mateus Pereira,São Paulo,SP,Sudeste,2024-06-04,Pequena Empresa
+CLI-0559,Nicolas Almeida,Florianópolis,SC,Sul,2023-04-26,Pequena Empresa
+CLI-0560,Larissa Souza,Niterói,RJ,Sudeste,2024-03-30,Pessoa Física
+CLI-0561,Caio Ferreira,Rio de Janeiro,RJ,Sudeste,2024-07-29,Pessoa Física
+CLI-0562,Gustavo Santos,Ribeirão Preto,SP,Sudeste,2024-01-28,Pessoa Física
+CLI-0563,Victor Ferreira,Campinas,SP,Sudeste,2023-07-18,Pessoa Física
+CLI-0564,Nicolas Santos,Uberlândia,MG,Sudeste,2024-07-05,Pessoa Física
+CLI-0565,Larissa Santos,Florianópolis,SC,Sul,2023-09-20,Pequena Empresa
+CLI-0566,Bianca Souza,Campinas,SP,Sudeste,2023-01-30,Pessoa Física
+CLI-0567,Paulo Rocha,Ribeirão Preto,SP,Sudeste,2024-02-15,Pessoa Física
+CLI-0568,Helena Oliveira,Florianópolis,SC,Sul,2024-07-04,Pequena Empresa
+CLI-0569,Gabriel Costa,Blumenau,SC,Sul,2022-06-01,Pessoa Física
+CLI-0570,Larissa Silva,Santos,SP,Sudeste,2023-04-28,Média Empresa
+CLI-0571,Luana Ferreira,Porto Alegre,RS,Sul,2022-08-17,Pequena Empresa
+CLI-0572,Rafaela Carvalho,Florianópolis,SC,Sul,2023-02-25,Pequena Empresa
+CLI-0573,Gustavo Lima,São Paulo,SP,Sudeste,2023-06-09,Pequena Empresa
+CLI-0574,Victor Gomes,Salvador,BA,Nordeste,2022-07-19,Média Empresa
+CLI-0575,Marina Araujo,Recife,PE,Nordeste,2024-06-11,Pessoa Física
+CLI-0576,Rafael Carvalho,Curitiba,PR,Sul,2023-04-07,Pessoa Física
+CLI-0577,Bruno Ribeiro,Petrópolis,RJ,Sudeste,2024-07-02,Pessoa Física
+CLI-0578,Júlia Gomes,Campinas,SP,Sudeste,2023-03-18,Pessoa Física
+CLI-0579,Sofia Ribeiro,Recife,PE,Nordeste,2023-04-20,Pequena Empresa
+CLI-0580,Marina Pereira,Vitória,ES,Sudeste,2024-10-17,Pequena Empresa
+CLI-0581,Beatriz Santos,Contagem,MG,Sudeste,2022-11-12,Pessoa Física
+CLI-0582,Caio Gomes,Campinas,SP,Sudeste,2022-02-21,Pessoa Física
+CLI-0583,Luana Carvalho,Curitiba,PR,Sul,2024-08-25,Pessoa Física
+CLI-0584,Larissa Souza,São Paulo,SP,Sudeste,2023-07-05,Pessoa Física
+CLI-0585,Gustavo Lima,Brasília,DF,Centro-Oeste,2022-07-09,Pessoa Física
+CLI-0586,Rafaela Araujo,Rio de Janeiro,RJ,Sudeste,2023-03-19,Pessoa Física
+CLI-0587,Eduardo Ferreira,Rio de Janeiro,RJ,Sudeste,2024-06-04,Pessoa Física
+CLI-0588,Gabriel Martins,Campinas,SP,Sudeste,2023-10-10,Pessoa Física
+CLI-0589,Marina Souza,Rio de Janeiro,RJ,Sudeste,2022-08-16,Média Empresa
+CLI-0590,Thiago Silva,Londrina,PR,Sul,2024-10-29,Pessoa Física
+CLI-0591,Helena Ribeiro,Campinas,SP,Sudeste,2022-09-24,Pessoa Física
+CLI-0592,Pedro Almeida,Florianópolis,SC,Sul,2024-11-05,Pessoa Física
+CLI-0593,Beatriz Almeida,Juiz de Fora,MG,Sudeste,2023-04-06,Pessoa Física
+CLI-0594,Thiago Gomes,Niterói,RJ,Sudeste,2024-01-22,Média Empresa
+CLI-0595,Luana Costa,Fortaleza,CE,Nordeste,2023-01-01,Pessoa Física
+CLI-0596,Sofia Oliveira,São Paulo,SP,Sudeste,2023-11-29,Pessoa Física
+CLI-0597,Caio Araujo,Curitiba,PR,Sul,2023-10-06,Pessoa Física
+CLI-0598,Victor Costa,Uberlândia,MG,Sudeste,2022-06-04,Pessoa Física
+CLI-0599,Luana Silva,São José dos Campos,SP,Sudeste,2023-11-29,Pequena Empresa
+CLI-0600,Diego Ferreira,Rio de Janeiro,RJ,Sudeste,2022-03-06,Pessoa Física
+CLI-0601,Victor Araujo,Florianópolis,SC,Sul,2022-11-22,Pessoa Física
+CLI-0602,Marina Araujo,Rio de Janeiro,RJ,Sudeste,2022-09-10,Pessoa Física
+CLI-0603,Gabriel Martins,Rio de Janeiro,RJ,Sudeste,2024-05-18,Pessoa Física
+CLI-0604,Isabela Ferreira,São Paulo,SP,Sudeste,2022-03-17,Pessoa Física
+CLI-0605,Rafaela Costa,São Paulo,SP,Sudeste,2022-04-06,Pequena Empresa
+CLI-0606,Caio Araujo,Curitiba,PR,Sul,2023-08-24,Pequena Empresa
+CLI-0607,Paulo Rocha,São Paulo,SP,Sudeste,2023-07-04,Média Empresa
+CLI-0608,Fernanda Almeida,Curitiba,PR,Sul,2024-09-22,Pessoa Física
+CLI-0609,Rafael Pereira,São Paulo,SP,Sudeste,2023-12-21,Pequena Empresa
+CLI-0610,Gabriel Carvalho,Rio de Janeiro,RJ,Sudeste,2022-11-07,Pequena Empresa
+CLI-0611,Beatriz Santos,Campinas,SP,Sudeste,2024-10-04,Pequena Empresa
+CLI-0612,Rafael Rocha,Uberlândia,MG,Sudeste,2024-02-24,Pessoa Física
+CLI-0613,Valentina Barbosa,Campinas,SP,Sudeste,2024-03-13,Pequena Empresa
+CLI-0614,Diego Souza,Belo Horizonte,MG,Sudeste,2024-08-06,Pequena Empresa
+CLI-0615,Caio Pereira,Salvador,BA,Nordeste,2023-02-28,Pessoa Física
+CLI-0616,Júlia Araujo,São José dos Campos,SP,Sudeste,2024-05-01,Pequena Empresa
+CLI-0617,Paulo Lima,Belo Horizonte,MG,Sudeste,2023-10-30,Pessoa Física
+CLI-0618,Luana Ferreira,Contagem,MG,Sudeste,2022-12-17,Pessoa Física
+CLI-0619,Rafael Costa,Curitiba,PR,Sul,2024-10-30,Pessoa Física
+CLI-0620,Victor Santos,Rio de Janeiro,RJ,Sudeste,2022-07-22,Pessoa Física
+CLI-0621,Camila Lima,Uberlândia,MG,Sudeste,2022-02-15,Pequena Empresa
+CLI-0622,Ana Silva,São Paulo,SP,Sudeste,2022-09-21,Pessoa Física
+CLI-0623,Gustavo Oliveira,Ribeirão Preto,SP,Sudeste,2024-06-19,Média Empresa
+CLI-0624,Isabela Martins,Curitiba,PR,Sul,2023-01-17,Pequena Empresa
+CLI-0625,Lucas Pereira,Campinas,SP,Sudeste,2024-01-08,Pequena Empresa
+CLI-0626,Olívia Gomes,Londrina,PR,Sul,2022-08-21,Pessoa Física
+CLI-0627,Mateus Gomes,Feira de Santana,BA,Nordeste,2022-10-16,Pessoa Física
+CLI-0628,Camila Ferreira,Vitória da Conquista,BA,Nordeste,2023-11-22,Pessoa Física
+CLI-0629,Júlia Gomes,São Paulo,SP,Sudeste,2023-03-09,Pessoa Física
+CLI-0630,Marina Martins,Belo Horizonte,MG,Sudeste,2022-12-01,Pequena Empresa
+CLI-0631,Gabriel Ribeiro,Rio de Janeiro,RJ,Sudeste,2024-02-04,Pessoa Física
+CLI-0632,Larissa Pereira,Curitiba,PR,Sul,2024-06-13,Pessoa Física
+CLI-0633,Igor Araujo,Serra,ES,Sudeste,2023-09-26,Pessoa Física
+CLI-0634,Camila Oliveira,Campinas,SP,Sudeste,2023-09-07,Pessoa Física
+CLI-0635,Mateus Rocha,Joinville,SC,Sul,2024-10-28,Pessoa Física
+CLI-0636,Sofia Carvalho,Campinas,SP,Sudeste,2024-08-23,Pessoa Física
+CLI-0637,Gabriel Lima,São Paulo,SP,Sudeste,2022-03-13,Pessoa Física
+CLI-0638,Mateus Ferreira,Ribeirão Preto,SP,Sudeste,2024-04-12,Pessoa Física
+CLI-0639,Diego Costa,Uberlândia,MG,Sudeste,2024-05-26,Pessoa Física
+CLI-0640,Rafael Ribeiro,Caruaru,PE,Nordeste,2023-06-27,Pessoa Física
+CLI-0641,Paulo Ribeiro,Belo Horizonte,MG,Sudeste,2023-06-08,Pessoa Física
+CLI-0642,Lucas Ribeiro,Belo Horizonte,MG,Sudeste,2024-07-07,Pessoa Física
+CLI-0643,Nicolas Almeida,Rio de Janeiro,RJ,Sudeste,2024-05-05,Pessoa Física
+CLI-0644,Lucas Araujo,Ribeirão Preto,SP,Sudeste,2024-10-27,Pessoa Física
+CLI-0645,Isabela Oliveira,Santos,SP,Sudeste,2024-06-01,Pessoa Física
+CLI-0646,Olívia Ribeiro,Rio de Janeiro,RJ,Sudeste,2023-12-27,Pessoa Física
+CLI-0647,Bianca Almeida,São Paulo,SP,Sudeste,2023-01-05,Pequena Empresa
+CLI-0648,Bruno Carvalho,Rio de Janeiro,RJ,Sudeste,2024-09-24,Pequena Empresa
+CLI-0649,Fernanda Ribeiro,Salvador,BA,Nordeste,2024-09-24,Pequena Empresa
+CLI-0650,Fernanda Silva,Santos,SP,Sudeste,2023-11-11,Pessoa Física
+CLI-0651,Sofia Lima,São Paulo,SP,Sudeste,2023-01-10,Pequena Empresa
+CLI-0652,Rafaela Gomes,Rio de Janeiro,RJ,Sudeste,2022-05-12,Pessoa Física
+CLI-0653,Luana Silva,São José dos Campos,SP,Sudeste,2022-01-27,Pessoa Física
+CLI-0654,Pedro Almeida,Brasília,DF,Centro-Oeste,2024-09-01,Pessoa Física
+CLI-0655,Bianca Barbosa,Porto Alegre,RS,Sul,2023-08-25,Pequena Empresa
+CLI-0656,Beatriz Rocha,Salvador,BA,Nordeste,2024-07-23,Pessoa Física
+CLI-0657,Thiago Araujo,Joinville,SC,Sul,2024-04-19,Pequena Empresa
+CLI-0658,Isabela Ribeiro,São José dos Campos,SP,Sudeste,2024-02-23,Pessoa Física
+CLI-0659,Rafael Costa,Campinas,SP,Sudeste,2023-12-23,Pessoa Física
+CLI-0660,Sofia Oliveira,Londrina,PR,Sul,2023-04-26,Pessoa Física
+CLI-0661,Helena Almeida,Vitória da Conquista,BA,Nordeste,2024-06-17,Pessoa Física
+CLI-0662,Mateus Carvalho,Goiânia,GO,Centro-Oeste,2024-12-13,Pessoa Física
+CLI-0663,Olívia Araujo,Santos,SP,Sudeste,2023-09-25,Pessoa Física
+CLI-0664,Olívia Souza,Joinville,SC,Sul,2023-10-13,Pequena Empresa
+CLI-0665,Nicolas Ribeiro,São Paulo,SP,Sudeste,2024-07-05,Pessoa Física
+CLI-0666,Júlia Silva,Blumenau,SC,Sul,2024-02-13,Pessoa Física
+CLI-0667,Júlia Oliveira,Belo Horizonte,MG,Sudeste,2024-01-07,Média Empresa
+CLI-0668,Bianca Silva,Caruaru,PE,Nordeste,2022-06-28,Pequena Empresa
+CLI-0669,Bianca Martins,Porto Alegre,RS,Sul,2022-11-17,Pessoa Física
+CLI-0670,Paulo Ferreira,Salvador,BA,Nordeste,2024-09-15,Pessoa Física
+CLI-0671,Victor Santos,Campinas,SP,Sudeste,2022-11-08,Pequena Empresa
+CLI-0672,Olívia Souza,Ribeirão Preto,SP,Sudeste,2023-01-31,Pessoa Física
+CLI-0673,Olívia Araujo,Curitiba,PR,Sul,2022-08-20,Pessoa Física
+CLI-0674,Paulo Lima,Uberlândia,MG,Sudeste,2024-06-25,Pequena Empresa
+CLI-0675,Bruno Gomes,Rio de Janeiro,RJ,Sudeste,2023-02-01,Pequena Empresa
+CLI-0676,Diego Santos,Caxias do Sul,RS,Sul,2023-03-06,Pequena Empresa
+CLI-0677,Gustavo Oliveira,Curitiba,PR,Sul,2022-05-05,Pessoa Física
+CLI-0678,Luana Ribeiro,Campinas,SP,Sudeste,2022-10-31,Pessoa Física
+CLI-0679,Helena Ribeiro,Brasília,DF,Centro-Oeste,2022-12-28,Pessoa Física
+CLI-0680,Nicolas Carvalho,Porto Alegre,RS,Sul,2022-05-31,Pessoa Física
+CLI-0681,Isabela Almeida,Curitiba,PR,Sul,2022-10-11,Pessoa Física
+CLI-0682,Valentina Ferreira,São Paulo,SP,Sudeste,2022-12-15,Pessoa Física
+CLI-0683,Lucas Silva,Fortaleza,CE,Nordeste,2023-07-20,Pequena Empresa
+CLI-0684,Victor Rocha,Belo Horizonte,MG,Sudeste,2024-12-11,Pessoa Física
+CLI-0685,Isabela Lima,Belo Horizonte,MG,Sudeste,2022-01-12,Média Empresa
+CLI-0686,Helena Araujo,Petrópolis,RJ,Sudeste,2023-12-12,Pequena Empresa
+CLI-0687,Fernanda Pereira,Belo Horizonte,MG,Sudeste,2024-01-20,Pessoa Física
+CLI-0688,Thiago Almeida,São Paulo,SP,Sudeste,2023-07-07,Pessoa Física
+CLI-0689,Marina Martins,Goiânia,GO,Centro-Oeste,2022-12-31,Pessoa Física
+CLI-0690,Nicolas Costa,São Paulo,SP,Sudeste,2024-02-09,Pessoa Física
+CLI-0691,Diego Ferreira,Joinville,SC,Sul,2023-11-02,Pessoa Física
+CLI-0692,Diego Lima,São Paulo,SP,Sudeste,2023-09-03,Pequena Empresa
+CLI-0693,Rafael Rocha,Rio de Janeiro,RJ,Sudeste,2023-09-13,Pessoa Física
+CLI-0694,Luana Silva,Campinas,SP,Sudeste,2024-03-07,Média Empresa
+CLI-0695,Luana Silva,Rio de Janeiro,RJ,Sudeste,2023-10-27,Pessoa Física
+CLI-0696,Thiago Carvalho,Caruaru,PE,Nordeste,2022-07-18,Média Empresa
+CLI-0697,Beatriz Rocha,Belo Horizonte,MG,Sudeste,2023-03-07,Pessoa Física
+CLI-0698,Helena Gomes,São Paulo,SP,Sudeste,2022-09-18,Pequena Empresa
+CLI-0699,Lucas Gomes,Campinas,SP,Sudeste,2022-10-05,Pequena Empresa
+CLI-0700,Ana Santos,Belo Horizonte,MG,Sudeste,2023-02-07,Pessoa Física
+CLI-0701,Marina Lima,São Paulo,SP,Sudeste,2023-09-28,Pessoa Física
+CLI-0702,Bianca Ferreira,Santos,SP,Sudeste,2022-04-15,Pessoa Física
+CLI-0703,Beatriz Araujo,Contagem,MG,Sudeste,2024-11-11,Pessoa Física
+CLI-0704,Larissa Costa,Juiz de Fora,MG,Sudeste,2023-07-27,Pequena Empresa
+CLI-0705,Helena Rocha,Vitória,ES,Sudeste,2022-01-17,Média Empresa
+CLI-0706,Thiago Silva,São Paulo,SP,Sudeste,2024-09-18,Pessoa Física
+CLI-0707,Thiago Santos,Rio Verde,GO,Centro-Oeste,2022-06-18,Pessoa Física
+CLI-0708,Fernanda Lima,Belo Horizonte,MG,Sudeste,2024-12-21,Pessoa Física
+CLI-0709,Lucas Ribeiro,Santos,SP,Sudeste,2022-04-12,Pessoa Física
+CLI-0710,Marina Souza,Maringá,PR,Sul,2023-12-28,Pessoa Física
+CLI-0711,Marina Costa,Belo Horizonte,MG,Sudeste,2023-10-15,Pessoa Física
+CLI-0712,Lucas Martins,Feira de Santana,BA,Nordeste,2024-12-13,Pessoa Física
+CLI-0713,Gabriel Araujo,Campinas,SP,Sudeste,2023-09-05,Pessoa Física
+CLI-0714,Gustavo Pereira,Cascavel,PR,Sul,2023-11-09,Pessoa Física
+CLI-0715,Pedro Ferreira,Juiz de Fora,MG,Sudeste,2023-02-02,Pessoa Física
+CLI-0716,Sofia Oliveira,São José dos Campos,SP,Sudeste,2023-07-25,Pequena Empresa
+CLI-0717,Olívia Martins,Uberlândia,MG,Sudeste,2024-05-30,Pequena Empresa
+CLI-0718,Valentina Martins,São Paulo,SP,Sudeste,2024-03-27,Média Empresa
+CLI-0719,Nicolas Martins,Serra,ES,Sudeste,2024-10-09,Pessoa Física
+CLI-0720,Victor Rocha,Uberlândia,MG,Sudeste,2023-01-20,Pessoa Física
+CLI-0721,Mateus Barbosa,Curitiba,PR,Sul,2022-09-01,Pessoa Física
+CLI-0722,Igor Ferreira,Niterói,RJ,Sudeste,2023-04-18,Pessoa Física
+CLI-0723,Helena Pereira,São Paulo,SP,Sudeste,2022-05-11,Pessoa Física
+CLI-0724,Larissa Ferreira,São Paulo,SP,Sudeste,2022-02-02,Pequena Empresa
+CLI-0725,Helena Pereira,Niterói,RJ,Sudeste,2023-10-08,Pequena Empresa
+CLI-0726,Paulo Martins,São Paulo,SP,Sudeste,2022-08-10,Pequena Empresa
+CLI-0727,Júlia Gomes,Contagem,MG,Sudeste,2022-05-03,Pessoa Física
+CLI-0728,Beatriz Santos,São Paulo,SP,Sudeste,2022-09-12,Pessoa Física
+CLI-0729,Bianca Rocha,Niterói,RJ,Sudeste,2022-11-17,Pessoa Física
+CLI-0730,Lucas Oliveira,Niterói,RJ,Sudeste,2022-07-07,Pessoa Física
+CLI-0731,Rafaela Lima,São Paulo,SP,Sudeste,2023-02-17,Pessoa Física
+CLI-0732,Larissa Lima,Salvador,BA,Nordeste,2023-12-17,Pessoa Física
+CLI-0733,Caio Ribeiro,São Paulo,SP,Sudeste,2023-10-24,Pessoa Física
+CLI-0734,Camila Pereira,Vitória,ES,Sudeste,2023-07-19,Pessoa Física
+CLI-0735,Thiago Lima,Contagem,MG,Sudeste,2024-04-05,Pequena Empresa
+CLI-0736,Paulo Ferreira,São Paulo,SP,Sudeste,2024-05-11,Pequena Empresa
+CLI-0737,Eduardo Santos,Campinas,SP,Sudeste,2023-06-11,Pessoa Física
+CLI-0738,Helena Rocha,São Paulo,SP,Sudeste,2022-12-20,Pessoa Física
+CLI-0739,Bianca Lima,Belo Horizonte,MG,Sudeste,2024-06-08,Pessoa Física
+CLI-0740,Valentina Santos,Rio de Janeiro,RJ,Sudeste,2023-08-15,Pessoa Física
+CLI-0741,Rafael Gomes,Rio de Janeiro,RJ,Sudeste,2024-01-31,Pessoa Física
+CLI-0742,Rafaela Ribeiro,Rio de Janeiro,RJ,Sudeste,2024-09-05,Pessoa Física
+CLI-0743,Diego Gomes,Belo Horizonte,MG,Sudeste,2024-06-13,Pessoa Física
+CLI-0744,Eduardo Costa,Joinville,SC,Sul,2022-05-08,Pessoa Física
+CLI-0745,Helena Silva,Rio de Janeiro,RJ,Sudeste,2024-06-18,Pessoa Física
+CLI-0746,Diego Ribeiro,Fortaleza,CE,Nordeste,2022-12-14,Pessoa Física
+CLI-0747,Larissa Souza,Ribeirão Preto,SP,Sudeste,2023-11-20,Pessoa Física
+CLI-0748,Marina Barbosa,São Paulo,SP,Sudeste,2024-04-26,Pequena Empresa
+CLI-0749,Bianca Ferreira,Rio de Janeiro,RJ,Sudeste,2024-07-24,Pessoa Física
+CLI-0750,Caio Araujo,Pelotas,RS,Sul,2023-01-18,Pessoa Física
